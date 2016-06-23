@@ -1,0 +1,139 @@
+.Col_3 img {
+  margin-top:20px;
+  opacity: 0.9;
+  z-index: 0;
+  height: 200px;
+  width: 300px;
+}
+.Col_3 img:hover
+{
+  opacity: 0.2;
+  transition: opacity -1s ease-out;
+}
+.Col_4 img
+{
+  margin-top:20px;
+  opacity: 0.9;
+  z-index: 0;
+  height:200px;
+  width: 200px;
+}
+h1
+ {
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'lobster',cursive;
+  font-weight: bold;
+  color:#87421F	;
+  letter-spacing: 6px;
+ }
+ h2
+ {
+   margin-top:30px;
+   font-family: 'Josefin Sans', sans-serif;
+   color: #87421F;
+   text-align: center;
+   font-weight: bold;
+
+ }
+ .port img
+{
+   background-size: cover;
+ }
+p
+ {
+   color: #87421f;
+   font-family: 'Josefin Sans', sans-serif;
+   text-align: justify;;
+   letter-spacing:3px;
+   margin: 10px;
+ }
+h5
+{
+font-family: 'Josefin Sans', sans-serif;
+text-align: justify;
+}
+
+a
+ {
+  text-decoration: none;
+  padding:3px;
+  color:#5C4033;
+  font-weight:bold;
+  font-family:'lobster',cursive;
+  letter-spacing: 3px;
+  font-size:16px;
+ }
+
+li
+ {
+ display:inline;
+ margin-right: 15px;
+ padding: 3px;
+ }
+
+ul
+ {
+  text-align:center;
+ }
+
+.header nav
+ {
+ height:90px;
+ background:#f0f0f0;
+ border:1px solid #ccc;
+ position: fixed;
+ width: 100%;
+ opacity: 0.9;
+ z-index: 9999999;
+ }
+
+hr
+{
+width: 960px;
+align-self: center;
+}
+footer
+{
+  background-color: #d3d3d3;
+  width: 100%;
+  padding:30px 0px;
+}
+h3,h4
+{
+  color: white;
+  text-align: center;
+  font-family:'lobster',cursive;
+}
+footer img
+{
+  height: 60px;
+  width: 60px;
+}
+.hero_unit
+{
+  background-image: url('../img/Hero_unit1.jpg');
+  height:100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+blockquote
+{
+  color: white;
+  font-family:
+}
+.paint img
+{
+  width:300px;
+  height:200px;
+}
+co{
+    color: #87421f;
+  font-style: italic;
+}
+.features img
+{
+  height:85px;
+  width: 85px;
+  float :right;
+}
